@@ -1,0 +1,17 @@
+:root {
+  --gray: #1f2120;
+  --error: #e91e63;
+  --white: #faf6f6;
+  --green: #04a040;
+  --lightgreen: #2dea75;
+  --darkgreen: #006400;
+}
+body {
+  top: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  font-family: Poppins, Verdana, sans-serif;
+}
