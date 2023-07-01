@@ -123,13 +123,13 @@ li:hover::after {
     /* height: 100%; */
   }
   nav div {
-    width: 24%;
+    width: 20%;
   }
   img {
     width: 75%;
   }
 nav ul {
-width: calc(100% - 24% + 1%);
+width: 78%;
 }
   nav ul li {
     margin: 0.51em;
