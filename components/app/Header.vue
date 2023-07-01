@@ -129,7 +129,7 @@ li:hover::after {
     width: 75%;
   }
 nav ul {
-width: calc(100% - 24%);
+width: calc(100% - 24% + 1%);
 }
   nav ul li {
     margin: 0.51em;
