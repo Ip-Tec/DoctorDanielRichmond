@@ -119,7 +119,7 @@ li:hover::after {
 }
 @media (max-width: 768px) {
   nav {
-    max-width: 100%;
+    width: 100%;
     /* height: 100%; */
   }
   nav div {
