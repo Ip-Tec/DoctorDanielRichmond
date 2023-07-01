@@ -128,6 +128,9 @@ li:hover::after {
   img {
     width: 75%;
   }
+nav ul {
+width: calc(100% - 24%);
+}
   nav ul li {
     margin: 0.51em;
     padding: 0.3em;
