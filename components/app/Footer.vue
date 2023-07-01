@@ -173,7 +173,7 @@ div.right {
 }
 @media screen and (max-width: 767px) {
   svg {
-    top: -2rem;
+    top: -3.2rem;
   }
 
   div.footlist {
