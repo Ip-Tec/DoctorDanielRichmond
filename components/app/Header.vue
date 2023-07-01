@@ -123,7 +123,7 @@ li:hover::after {
     /* height: 100%; */
   }
   nav div {
-    width: 25%;
+    width: 24%;
   }
   img {
     width: 75%;
