@@ -460,7 +460,7 @@ svg.wave path {
     flex-wrap: wrap;
   }
   p.glass {
-    width: 100% !important;
+    width: auto !important;
   }
   #footer {
     margin-top: 0.41rem;
@@ -471,6 +471,8 @@ svg.wave path {
     padding: 30px 15px;
     width: 290px;
   }
+p.glass{
+width: auto;}
 }
 
 .mission,
