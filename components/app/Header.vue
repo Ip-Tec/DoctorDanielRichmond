@@ -119,15 +119,18 @@ li:hover::after {
 }
 @media (max-width: 768px) {
   nav {
-    max-width: 100%;
+    width: 100%;
     /* height: 100%; */
   }
   nav div {
-    width: 25%;
+    width: 20%;
   }
   img {
     width: 75%;
   }
+nav ul {
+width: 78%;
+}
   nav ul li {
     margin: 0.51em;
     padding: 0.3em;

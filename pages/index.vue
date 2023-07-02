@@ -56,10 +56,10 @@
               certified natural organic herbs and wild harvested quality tested
               ingredients to produce
             </p>
-            <LazyIconDoctors width="400px" height="400px" />
+            <LazyIconDoctors width="300px" height="400px" />
           </div>
           <div class="we">
-            <LazyIconMedicine width="400px" height="400px" />
+            <LazyIconMedicine width="300px" height="400px" />
             <p class="glass">
               We understand disease at a level beyond the superficial symptoms and strive
               to find a permanent resolution. Together with the patient, we aim to bring
@@ -460,7 +460,7 @@ svg.wave path {
     flex-wrap: wrap;
   }
   p.glass {
-    width: 100% !important;
+    width: auto !important;
   }
   #footer {
     margin-top: 0.41rem;
@@ -471,6 +471,8 @@ svg.wave path {
     padding: 30px 15px;
     width: 290px;
   }
+p.glass{
+width: auto;}
 }
 
 .mission,
